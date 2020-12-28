@@ -5,10 +5,10 @@ Turning on the display:
   <b>orbitalWrite.on_display(busAddr)</b>
   <br>
 Turning off the display:
-  orbitalWrite.off_display(busAddr)
+  <b>orbitalWrite.off_display(busAddr)</b>
   <br>
 Display word or words on display:
-  orbitalWrite.write_display(busAddr,wordDisp)
+  <b>orbitalWrite.write_display(busAddr,wordDisp)</b>
   <br>
   <br>
 busAddr is the I2C address of the LCD module
