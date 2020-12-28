@@ -3,6 +3,7 @@ Python I2C driver for Matrix Orbital VK204-25 LCD displays
 <h2>Usage examples:</h2>
 Turning on the display:
   orbitalWrite.on_display(busAddr)
+  <br>
 Turning off the display:
   orbitalWrite.off_display(busAddr)
 Display word or words on display:
